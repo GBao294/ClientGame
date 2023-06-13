@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37128dff2e340be4baf8b7c9ee0ec5ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthSlider: {instanceID: 0}
+  - FloatingText: {fileID: 6592227313772860865, guid: f899c6153123aea449f3068d9df8f4a8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
